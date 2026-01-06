@@ -29,11 +29,11 @@ Here are some things I've been working on recently:
     <img src="https://media.discordapp.net/attachments/1204956732539801651/1388906850183024762/image.png?ex=6862afcd&is=68615e4d&hm=bfc1c275cf958526a6a1c4aea3547d321da14d5aae380de69d8978e4a277155f&=&format=webp&quality=lossless" alt="PvStock Screenshot" width="600"/>
   </div>
 
-## 📫 Get in touch
+## Get in touch
 
 Feel free to reach out or check out my latest work!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/원영-최-a74692177)
-- 📧 Email: seso6430@naver.com
+- [LinkedIn](https://www.linkedin.com/in/원영-최-a74692177)
+- Email: seso6430@naver.com
 
 ---
