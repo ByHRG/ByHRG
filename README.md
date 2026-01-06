@@ -3,7 +3,7 @@
 I'm a passionate developer focused on automation, web scraping, and backend engineering.  
 I enjoy building tools that solve real-world problems, especially in e-commerce and data analysis.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Languages**: Python(main), SQL  
 - **Web & Markup**: HTML, CSS, Jinja2  
@@ -12,15 +12,15 @@ I enjoy building tools that solve real-world problems, especially in e-commerce 
 - **Tools**: httpx, mitmproxy, Frida, PyInstaller, uv, Git, PyCharm
 - **Others**: REST API, Web Crawling, Reverse Engineering, CLI Automation
 
-## 🚀 Personal Projects
+## Personal Projects
 
 Here are some things I've been working on recently:
 
-- 🛒 **E-commerce automation** – Scripts and bots to automate product availability checks, carting, and purchases from various online stores
-- 🕵️ **Web scraping** – High-performance crawlers using `httpx`, `Playwright`, and headless browsers for real-time data collection
-- 🔐 **API reverse engineering** – Digging into hidden APIs and encrypted traffic to uncover undocumented endpoints
-- 📊 **Data parsing and normalization** – Product metadata extraction with unit conversion, quantity parsing, and structured storage
-- 🧩 **[Pv10Stock](http://pv10stock.서버.한국/)** / **[PvStock (Private Repo)](https://github.com/ByHRG/PvStock)**  
+- **E-commerce automation** – Scripts and bots to automate product availability checks, carting, and purchases from various online stores
+- **Web scraping** – High-performance crawlers using `httpx`, `Playwright`, and headless browsers for real-time data collection
+- **API reverse engineering** – Digging into hidden APIs and encrypted traffic to uncover undocumented endpoints
+- **Data parsing and normalization** – Product metadata extraction with unit conversion, quantity parsing, and structured storage
+- **[Pv10Stock](http://pv10stock.서버.한국/)** / **[PvStock (Private Repo)](https://github.com/ByHRG/PvStock)**  
   A FastAPI-based web app for tracking online and offline product inventory across multiple fashion and sneaker retailers.  
   Utilizes `httpx` and custom parsers to fetch and display stock status in real-time.  
   Features include cart automation, unit-aware product parsing and a responsive UI with Jinja2 templates.  
