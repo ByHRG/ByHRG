@@ -9,7 +9,7 @@ I enjoy building tools that solve real-world problems, especially in e-commerce 
 - **Web & Markup**: HTML, CSS, Jinja2  
 - **Frameworks**: FastAPI, Flask, Playwright, Selenium
 - **Databases**: SQLite, MySQL, PostgreSQL  
-- **Tools**: httpx, mitmproxy, Frida, PyInstaller, Poetry, Git, PyCharm
+- **Tools**: httpx, mitmproxy, Frida, PyInstaller, uv, Git, PyCharm
 - **Others**: REST API, Web Crawling, Reverse Engineering, CLI Automation
 
 ## 🚀 Personal Projects
