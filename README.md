@@ -20,7 +20,7 @@ Here are some things I've been working on recently:
 - **Web scraping** – High-performance crawlers using `curl_cffi`, `httpx`, `Playwright`, and headless browsers for real-time data collection
 - **API reverse engineering** – Digging into hidden APIs and encrypted traffic to uncover undocumented endpoints
 - **Data parsing and normalization** – Product metadata extraction with unit conversion, quantity parsing, and structured storage
-- **[Pv10Stock](http://pv10stock.서버.한국/)** / **[PvStock (Private Repo)](https://github.com/ByHRG/PvStock)**  
+- **[PvStock](https://pvstock.kr)** / **[PvStock (Private Repo)](https://github.com/ByHRG/PvStock)**  
   A FastAPI-based web app for tracking online and offline product inventory across multiple fashion and sneaker retailers, later expanded into an archive platform for Supreme Box Logo Stickers released to date.  
   Utilizes `httpx` and custom parsers to fetch and display stock status in real-time.  
   Features include cart automation, unit-aware product parsing, a responsive UI with Jinja2 templates, and a structured Supreme Box Logo Sticker archive with release metadata and visual references.  
